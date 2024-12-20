@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Gonzalo Gavilondo</h1>
 <h3 align="center">Consultor BRM y estudiante de Argentina</h3>
 
--Estoy trabajando en **Oracle como Consultor BRM**
+-Estoy trabajando en **Oracle como Associate Consultant**
 
 <h3 align="left">Conectemos:</h3>
 <p align="left">
