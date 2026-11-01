@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Gonzalo Gavilondo</h1>
 <p align="center">
-  <b>Staff Consultant @ Oracle</b> · Oracle BRM Developer · BSS/OSS Telco · Backend Java<br/>
+  <b>Staff Consultant @ Oracle</b> · Oracle BRM Developer · BSS/OSS Telco ·<br/>
   📍 Mar del Plata, Argentina
 </p>
 
