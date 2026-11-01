@@ -1,12 +1,47 @@
-<h1 align="center">Hola 👋, Soy Gonzalo Gavilondo</h1>
-<h3 align="center">Analista, programador BRM y estudiante de Argentina</h3>
-
--Estoy trabajando en **Oracle como Staff Consultant**
-
-<h3 align="left">Conectemos:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gonzalo-gavilondo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-gavilondo" height="30" width="40" /></a>
+<h1 align="center">Hola 👋, soy Gonzalo Gavilondo</h1>
+<p align="center">
+  <b>Staff Consultant @ Oracle</b> · Oracle BRM Developer · BSS/OSS Telco · Backend Java<br/>
+  📍 Mar del Plata, Argentina
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gonzalo-gavilondo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gonzalogavilondo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### 🧑‍💻 Sobre mí
+
+Desarrollador especializado en **Oracle BRM** y soluciones **BSS/OSS para Telco**, con más de 3 años trabajando en plataformas de billing.
+
+- 💼 Hoy trabajo en **Oracle** para **Claro VTR (Chile)**: customizaciones, integraciones y soporte a producción.
+- 🏆 **Top Graduate Consultant** — Oracle FY25 Q4 CS4I Awards.
+- 🌱 Creciendo en desarrollo backend con **Java SE** y **Spring Boot**.
+- 🎓 Estudiante en la **Universidad Tecnológica Nacional (UTN)**.
+
+### 🛠️ Stack
+
+**Billing / Telco:** Oracle BRM ·
+**Backend:** Java · Spring Boot · C  
+**Datos:** Oracle DB · PL/SQL · SQL  
+**Herramientas:** Linux · Bash · Git
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,c,linux,bash,git&theme=dark" alt="Tecnologías"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/>
+</p>
+
+### 📜 Certificaciones
+
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+- Agile Force Certified Scrum Master Professional (AF-CSMP)
+- Oracle Fundamentos 19c
+
+### 📊 Estadísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gonzalogavilondo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalogavilondo&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
+</p>
