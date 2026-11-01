@@ -23,7 +23,7 @@ Desarrollador especializado en **Oracle BRM** y soluciones **BSS/OSS para Telco*
 ### 🛠️ Stack
 
 **Billing / Telco:** Oracle BRM ·
-**Backend:** Java · Spring Boot · C  
+**Backend:** Java SE y Spring Boot · C ·  
 **Datos:** Oracle DB · PL/SQL · SQL  
 **Herramientas:** Linux · Bash · Git
 
